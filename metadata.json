@@ -1,0 +1,6 @@
+{
+  "name": "Code Workspace",
+  "description": "A collaborative workspace for reviewing and editing uploaded code files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
