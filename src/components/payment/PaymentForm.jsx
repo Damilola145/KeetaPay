@@ -8,7 +8,7 @@ import { shortenAddress, sendPayment, getAddressFromSeed } from "@/lib/keeta";
 import RecentTransactions from "@/components/payment/RecentTransactions";
 import { motion, AnimatePresence } from "framer-motion";
 
-const EXPLORER_BASE = "https://explorer.test.keeta.com/tx/";
+const EXPLORER_BASE = "https://explorer.test.keeta.com/block/";
 
 export default function PaymentForm({ paymentLink }) {
   const [amount, setAmount] = useState(paymentLink?.amount || "");

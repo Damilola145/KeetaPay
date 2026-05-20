@@ -9,7 +9,7 @@ import {
 import { sendPayment, getAddressFromSeed, isValidKeetaAddress, shortenAddress } from "@/lib/keeta";
 import { motion, AnimatePresence } from "framer-motion";
 
-const EXPLORER_BASE = "https://explorer.test.keeta.com/tx/";
+const EXPLORER_BASE = "https://explorer.test.keeta.com/block/";
 
 const TEMPLATE_CSV = `address,amount\nkeeta_RECIPIENT1,10\nkeeta_RECIPIENT2,25`;
 
