@@ -6,7 +6,6 @@ KeetaPay is a modern, responsive web application for managing cryptocurrency pay
 
 ## 🚀 Features
 
-- **Wallet Connection:** Connect to Keeta wallets securely and view real-time account balances and transaction history.
 - **Single Payments:** Send tokens instantly to any Keeta address exactly and effortlessly.
 - **Bulk Payments:** Execute mass payouts to multiple recipients natively.
 - **Payment Links & QR Codes:** Generate reusable payment links and QR codes to request payments, making it easier for users to pay.
